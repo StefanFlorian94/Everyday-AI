@@ -29,7 +29,7 @@ Hai idee o vuoi collaborare? Apri una issue o inviaci un pull request! 💡
 
 ### 📬 Contatti
 📧 Email: official.stefanmail@gmail.com
-🌐 Sito Web: [Portfolio del Programmatore di questo sito]([https://hritcu-personal-portfolio.netlify.app/])
+🌐 Sito Web: [Portfolio del Programmatore di questo sito] https://hritcu-personal-portfolio.netlify.app
 Che ne pensi di questi nomi e descrizioni? Ti risuonano o vuoi esplorare altre direzioni? Dimmi, così possiamo perfezionare il tutto! 🚀 ```markdown
 
 🌟 Licenza
